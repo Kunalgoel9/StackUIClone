@@ -1,0 +1,11 @@
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 1em auto;
+}
+
+body {
+  background-color: #f4ede4;
+}
